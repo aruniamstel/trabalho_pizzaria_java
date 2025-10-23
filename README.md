@@ -14,4 +14,5 @@ Gabriel Biscaia Ferreira
 ## 📚 Aprendizados
 - Desenvolvimento de aplicações Java
 - Arquitetura MVC (Model, View, Controller)
+- Conceitos como herança, interface, polimorfismo.
 - Boas práticas de programação
