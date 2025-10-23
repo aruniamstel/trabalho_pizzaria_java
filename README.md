@@ -3,9 +3,9 @@
 **Trabalho acadêmico desenvolvido em equipe durante o segundo semestre de 2023 para a disciplina de Linguagem Orientada a Objetos II**
 
 ## Integrantes da Equipe
-Aruni van Amstel
-Brian Viana
-Gabriel Biscaia Ferreira
+Aruni van Amstel  
+Brian Viana  
+Gabriel Biscaia Ferreira  
 
 ## 🔧 Tecnologias Utilizadas
 - Java
